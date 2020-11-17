@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.2.1
+
+### Patch Changes
+
+- 5af0b00: Refactoring to use const/let, and simplify a few lines
+
 ## 6.2.0
 
 ### Minor Changes
